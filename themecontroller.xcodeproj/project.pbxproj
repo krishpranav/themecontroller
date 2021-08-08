@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9F2F4BAD26C0019D00DEF9A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2F4BAC26C0019D00DEF9A0 /* main.swift */; };
 		9F2F4BB526C0020E00DEF9A0 /* DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2F4BB426C0020E00DEF9A0 /* DarkMode.swift */; };
+		9F2F4BB826C002D800DEF9A0 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2F4BB726C002D800DEF9A0 /* Utilities.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		9F2F4BA926C0019D00DEF9A0 /* themecontroller */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = themecontroller; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F2F4BAC26C0019D00DEF9A0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9F2F4BB426C0020E00DEF9A0 /* DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkMode.swift; sourceTree = "<group>"; };
+		9F2F4BB726C002D800DEF9A0 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				9F2F4BAC26C0019D00DEF9A0 /* main.swift */,
 				9F2F4BB426C0020E00DEF9A0 /* DarkMode.swift */,
+				9F2F4BB726C002D800DEF9A0 /* Utilities.swift */,
 			);
 			path = themecontroller;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F2F4BB826C002D800DEF9A0 /* Utilities.swift in Sources */,
 				9F2F4BB526C0020E00DEF9A0 /* DarkMode.swift in Sources */,
 				9F2F4BAD26C0019D00DEF9A0 /* main.swift in Sources */,
 			);
